@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Diether Marcelo\Desktop\Money\Careers\Fields\Tech\Skills\Development\Programming Languages\Java\projects\design-patterns\.metadata\.plugins\org.eclipse.jdt.core
-3814551627.index
-1865797976.index
-3461136891.index
